@@ -1,0 +1,23 @@
+.DS_Store
+/captures
+.externalNativeBuild
+
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+/local.properties
+/.idea/workspace.xml
+.idea/
+*.iml
